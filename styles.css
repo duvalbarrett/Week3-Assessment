@@ -1,0 +1,98 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+.button {
+	font-size: medium;
+	background-color: yellow;
+	font-weight: bold;
+}
+
+.place{
+	font-size: medium;
+	background-color: yellow;
+	font-weight: bold;
+}
+
+.ritual{
+	font-size: medium;
+	background-color: yellow;
+	font-weight: bold;
+}
+
+p{
+
+	box-shadow: 0px 0px 35px 0px;
+	margin-top: 20px;
+	padding: 5px;
+
+
+}
+
+.pizza{
+	box-sizing: border-box;
+	box-shadow: 0px 5px 5px 5px;
+	padding:30px;
+	background-color: orange;
+}
+
+.sights{
+	box-sizing: border-box;
+	box-shadow: 0px 5px 5px 5px;
+	padding:30px;
+	background-color: aqua;
+}
+
+#random{
+	padding: 5px 5px 5px 5px;
+	margin-top: 10px;
+	margin-left: 0px;
+}
+
+footer{
+	margin-top: 40px;
+	color:black;
+	padding: 10px 10px 10px 10px;
+	border: 2px solid red;
+	background-color: beige;
+	width:auto;
+}
+
+
+
